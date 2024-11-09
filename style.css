@@ -199,6 +199,13 @@ section {
   text-align: center;
 }
 
+.sub-head-title{
+  text-align: center;
+  font-size: 0.75rem;
+  font-family: "Poppins", sans-serif;
+  color: rgb(82, 77, 87);
+}
+
 #socials-container {
   display: flex;
   justify-content: center;
@@ -412,6 +419,13 @@ article .icon {
   height: 20px;
   margin-left: 8px;
   cursor: pointer; 
+}
+
+.icon-img-2 {
+  width: 20px;
+  height: 20px;
+  /* margin-left: 8px; */
+  /* cursor: pointer;  */
 }
 
 .project-btn {
